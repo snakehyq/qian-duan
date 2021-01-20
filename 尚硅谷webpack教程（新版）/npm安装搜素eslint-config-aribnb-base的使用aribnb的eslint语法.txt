@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/eslint-config-airbnb-base
+
+aribnb中的eslint:github网址  https://github.com/topics/javascript
